@@ -1,0 +1,23 @@
+soundOne WAVE c:\dev\iss_mandarin_thing\res\1.wav 
+soundTwo WAVE c:\dev\iss_mandarin_thing\res\2.wav 
+soundThree WAVE c:\dev\iss_mandarin_thing\res\3.wav 
+soundFour WAVE c:\dev\iss_mandarin_thing\res\4.wav 
+soundFive WAVE c:\dev\iss_mandarin_thing\res\5.wav 
+soundSix WAVE c:\dev\iss_mandarin_thing\res\6.wav 
+soundSeven WAVE c:\dev\iss_mandarin_thing\res\7.wav 
+soundEight WAVE c:\dev\iss_mandarin_thing\res\8.wav 
+soundNine WAVE c:\dev\iss_mandarin_thing\res\9.wav 
+soundten WAVE c:\dev\iss_mandarin_thing\res\10.wav 
+soundEleven WAVE c:\dev\iss_mandarin_thing\res\11.wav 
+soundTwelve WAVE c:\dev\iss_mandarin_thing\res\12.wav 
+soundThirteen WAVE c:\dev\iss_mandarin_thing\res\13.wav 
+soundFourteen WAVE c:\dev\iss_mandarin_thing\res\14.wav 
+soundFifteen WAVE c:\dev\iss_mandarin_thing\res\15.wav 
+soundSixteen WAVE c:\dev\iss_mandarin_thing\res\16.wav 
+soundSeventeen WAVE c:\dev\iss_mandarin_thing\res\17.wav 
+soundEighteen WAVE c:\dev\iss_mandarin_thing\res\18.wav 
+soundNineteen WAVE c:\dev\iss_mandarin_thing\res\19.wav 
+soundTwenty WAVE c:\dev\iss_mandarin_thing\res\20.wav 
+soundTwentyOne WAVE c:\dev\iss_mandarin_thing\res\21.wav 
+
+mainIcon ICON c:\dev\iss_mandarin_thing\res\icon.ico
